@@ -9,9 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript 
 - Git e Github
 
-<p align="center">
-  <img alt="Salao de Beleza" src=".github/preview.jpg" width="100%">
-</p>
+
 
 ## 💻 Projeto
 
